@@ -1,0 +1,4 @@
+cluster 0
+berry 1
+web 2
+caterpillar 3
